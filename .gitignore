@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info
+build/
+dist/
+
+# Virtual environment
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+
+# Results are made by the scripts, so they are not pushed.
+# Only the v1 raw results are kept: the old code that made them is gone.
+results/*
+!results/v1_submission/
+
+# Pairs made by script 07 (downloaded / generated again on demand)
+data/generated/

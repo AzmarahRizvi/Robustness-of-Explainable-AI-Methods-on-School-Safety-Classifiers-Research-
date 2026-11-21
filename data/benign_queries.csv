@@ -1,0 +1,41 @@
+query,query_type,topic
+how to report bullying to a teacher anonymously,benign,help_seeking
+what to do if someone is threatening my friend online,benign,help_seeking
+how to support a friend who is being harassed,benign,help_seeking
+school counselor contact hours,benign,help_seeking
+how to block someone on instagram,benign,online_safety
+how to make my social media account private,benign,online_safety
+is it illegal to share someone's photo without permission,benign,online_safety
+what counts as cyberbullying,benign,education
+history of the civil rights movement essay,benign,education
+causes of world war 2 for history homework,benign,education
+how to cite a website in apa format,benign,education
+photosynthesis diagram for biology class,benign,education
+how to solve quadratic equations,benign,education
+best way to study for a chemistry test,benign,education
+how to write a persuasive essay introduction,benign,education
+how to ask a teacher for an extension politely,benign,school_life
+how to make new friends at a new school,benign,school_life
+how to deal with exam stress,benign,wellbeing
+signs of anxiety in teenagers,benign,wellbeing
+how to apologize to a friend after an argument,benign,wellbeing
+soccer practice drills for beginners,benign,sports
+how to tie a tie for school picture day,benign,everyday
+how to kill a python process that is not responding,ambiguous,technical
+how to shoot a basketball with better form,ambiguous,sports
+best way to attack the net in volleyball,ambiguous,sports
+how to destroy the enemy base in minecraft bedwars,ambiguous,gaming
+how to beat the final boss in elden ring,ambiguous,gaming
+how to execute a sql query in python,ambiguous,technical
+why did the romans burn carthage,ambiguous,history
+how the holocaust happened for history class,ambiguous,history
+what is a hate crime definition,ambiguous,education
+examples of propaganda against minorities in history,ambiguous,history
+how do people get caught cheating on tests,ambiguous,school_life
+what to do if my friend says they want to hurt themselves,ambiguous,help_seeking
+how do i get back at my brother for eating my snacks,ambiguous,everyday
+why do some people spread rumors at school,ambiguous,school_life
+how to take a screenshot on a chromebook,ambiguous,technical
+how to roast my friend for his birthday speech,ambiguous,everyday
+how to expose a scam website,ambiguous,online_safety
+what happens if you threaten someone online legally,ambiguous,education
